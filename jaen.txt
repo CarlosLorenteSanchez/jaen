@@ -1,0 +1,11 @@
+Cifras Oficiales de Población de los Municipios Españoles: Revisión del Padrón Municipal
+Resumen por provincias
+Población por provincias y tamaño de los municipios
+Unidades: Personas
+	Total	
+	2021	
+23 Jaén	627.190	
+Notas:
+Las cifras de 1996 están referidas a 1 de mayo y  las demás a 1 de enero.
+No existen cifras a 1 de enero de 1997 porque no se realizó revisión del padrón para ese año
+Fuente: Instituto Nacional de Estadística
